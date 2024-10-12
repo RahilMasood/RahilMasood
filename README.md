@@ -3,7 +3,7 @@
 </p>
 
 ## About Me
-- 👨‍🎓 Currently studying as a 2nd-year CSE BTech student.
+- 👨‍🎓 Currently a 2nd year Computer Science Engineering student.
 - 🖥️ ML Enthusiast.
 - 🔭 Working on **AIML projects**.
 - 🌱 Learning **ML concepts, OOP, DSA, Cyber Security**.
