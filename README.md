@@ -39,8 +39,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png" alt="Pandas" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/800px-NumPy_logo_2020.svg.png" alt="NumPy" height="80">
   <img src="https://pytorch.org/tutorials/_static/img/thumbnails/cropped/Deploying-PyTorch-in-Python-via-a-REST-API-with-Flask.png" alt="pytorch" height="80">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/220px-OpenCV_Logo_with_text_svg_version.svg.png" alt="opencv" height="80">
-
 </div>
 
 ### Other Tools
