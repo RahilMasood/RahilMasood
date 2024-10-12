@@ -2,27 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋, I'm Rahil Masood;🧑‍💻A passionate backend developer;❣️Open-Source!!;Love learning new Tech;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
-🧑‍💻About Me:<br>
-I am Currently a CSE 2nd year Student<br>
+## About Me
+- 👨‍🎓 Currently studying as a 2nd-year CSE BTech student.
+- 🖥️ ML Enthusiast.
+- 🔭 Working on **AIML projects**.
+- 🌱 Learning **ML concepts, OOP, DSA, Cyber Security**.
+- 💬 Ask me about **OOP or ML concepts**.
+- 📄 Check out my experiences [here](https://www.linkedin.com/in/rahil-masood-2b5795290).
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="200"/>
 
-- 🔭 I’m currently working on **AIML Projects**
-
-- 🌱 I’m currently learning **ML concepts, OOP, DSA, Cyber Security**
-
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/RahilMasood?tab=repositories)
-
-- 💬 Ask me about **Oops or ML concepts**
-
-- 📄 Know about my experiences [here](https://www.linkedin.com/in/rahil-masood-2b5795290)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/rahilm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rahilm27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahil-masood-2b5795290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahil-masood-2b5795290/" height="30" width="40" /></a>
-<a href="https://discord.gg/rahil_.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rahil_.m" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/rahilm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahilm27" height="30" width="40" /></a>
+<a href="https://x.com/rahilm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahil-masood-2b5795290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://discord.gg/rahil_.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/rahilm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 </p>
 
 ## Skillset
