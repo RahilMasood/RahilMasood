@@ -5,6 +5,8 @@
 🧑‍💻About Me:<br>
 I am Currently a CSE 2nd year Student<br>
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="200"/>
+
 - 🔭 I’m currently working on **AIML Projects**
 
 - 🌱 I’m currently learning **ML concepts, OOP, DSA, Cyber Security**
