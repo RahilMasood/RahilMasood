@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋, I'm Rahil Masood;🧑‍💻A passionate backend developer;❣️Open-Source!!;Love learning new Tech;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋, I'm Rahil Masood;🧑‍💻A passionate backend developer;❣️Open-Source!!;Love learning new Tech<3;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 ## About Me
