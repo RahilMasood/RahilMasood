@@ -58,8 +58,12 @@
 
 
 ### IDE
-  <div><img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VSCODE" height="80">
-  <img src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="JUPTER" height="80"></div>
+<div style="text-align: center; margin-top: 20px;">
+  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VSCODE" height="80" />
+  <img src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="JUPYTER" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="80" />
+</div>
+
 
 ###
 
