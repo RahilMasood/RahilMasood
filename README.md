@@ -4,9 +4,9 @@
 
 ## About Me
 - 👨‍🎓 Currently a 2nd year Computer Science Engineering student.
-- 🖥️ ML Enthusiast.
+- 🖥️ Machine Learning Enthusiast.
 - 🔭 Working on **AIML projects** and **Web Development**.
-- 🌱 Learning **ML concepts, OOP, DSA, Cyber Security, WebD**.
+- 🌱 Learning **Deep Learning concepts and Neural Networks, OOP, DSA, Cyber Security, Web Development**.
 - 💬 Ask me about **OOP or Machine Learning**.
 - 📄 Check out my experiences [here](https://www.linkedin.com/in/rahil-masood-2b5795290).
 
