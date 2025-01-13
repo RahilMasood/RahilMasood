@@ -6,7 +6,7 @@
 - 👨‍🎓 Currently a 2nd year Computer Science Engineering student.
 - 🖥️ Machine Learning Enthusiast.
 - 🔭 Working on **AIML projects** and **Web Development**.
-- 🌱 Learning **Deep Learning concepts and Neural Networks, OOP, DSA, Cyber Security, Web Development**.
+- 🌱 Learning **Deep Learning concepts and Neural Networks, DSA, Cyber Security, Web Development**.
 - 💬 Ask me about **OOP or Machine Learning**.
 - 📄 Check out my experiences [here](https://www.linkedin.com/in/rahil-masood-2b5795290).
 
@@ -25,7 +25,7 @@
 ## Tech Stack
 
 ### Languages
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 20rem;">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="90" />
   <img src="https://www.sam-solutions.com/blog/wp-content/uploads/2019/07/java-image-recognition.jpg" alt="Java" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="90" />
@@ -60,7 +60,7 @@
 
 
 ### IDE
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 20rem;">
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VSCODE" height="80" />
   <img src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="JUPYTER" height="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="80" />
