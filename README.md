@@ -66,17 +66,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="80" />
 </div>
 
-### 
+##
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahilmasood&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" />
 </div>
 
-
 ###
-
-<br clear="both">
-
 <img src="https://RahilMasood.github.io/RahilMasood/snake.svg" alt="Snake animation" />
 
 ###
