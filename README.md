@@ -27,8 +27,8 @@
 ### Languages
 <div style="text-align: center; margin-top: 20rem;">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" height="90" />
-  <img src="https://www.sam-solutions.com/blog/wp-content/uploads/2019/07/java-image-recognition.jpg" alt="Java" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="90" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="90" />
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="90" />
@@ -49,6 +49,7 @@
 
 ### Other Tools
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="70">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="Flutter" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django" height="80">&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="80">
@@ -64,6 +65,7 @@
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VSCODE" height="80" />
   <img src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="JUPYTER" height="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" height="80" />
 </div>
 
 ##
