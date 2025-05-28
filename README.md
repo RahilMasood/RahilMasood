@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋, I'm Rahil Masaod;Passionate Full-stack developer;❣️Open-Source!!;🖥️Love learning new Tech<3;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76868&center=true&vCenter=true&width=435&lines=Hello👋%2C+I'm+Rahil+Masood;Passionate+Full-stack+Developer;❣️+Open-Source!!;🖥️+Love+learning+new+Tech%3C3)
 
 ## About Me
 - 👨‍🎓 Currently a 2nd year Computer Science Engineering student.
