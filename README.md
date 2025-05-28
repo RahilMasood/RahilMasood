@@ -63,7 +63,7 @@
   <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="VSCODE" height="80" />
   <img src="https://github.com/markusschanta/awesome-jupyter/raw/master/assets/logo.png" alt="JUPYTER" height="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" height="80" />
+  <img src="https://icon.icepanel.io/Technology/svg/Anaconda.svg" alt="Anaconda" height="80" />
 </div>
 
 ##
