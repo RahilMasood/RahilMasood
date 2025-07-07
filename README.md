@@ -20,7 +20,7 @@
 <a href="https://www.kaggle.com/rahilm27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 </p>
 
-## Tech Stack
+# Tech Stack
 
 ### Languages
 <div style="text-align: center; margin-top: 20rem;">
