@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76868&center=true&vCenter=true&width=435&lines=Hello👋%2C+I'm+Rahil+Masood;Passionate+Full-stack+Developer;❣️+Open-Source!!;🖥️+Love+learning+new+Tech%3C3)
 
 ## About Me
-- 👨‍🎓 Currently a 2nd year Computer Science Engineering student.
+- 👨‍🎓 Currently a 3rd year Computer Science Engineering student.
 - 🖥️ Machine Learning Enthusiast.
 - 🔭 Working on **AIML projects**, **Deep Learning** and **Web Development**.
 - 🌱 Learning **Deep Learning concepts and Neural Networks, DSA, Cyber Security, Web Development**.
